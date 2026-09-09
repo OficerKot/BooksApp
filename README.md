@@ -24,12 +24,17 @@
 - Dependency Injection
 
 ## Скриншоты
-![Главный экран](screenshots/1.jpg)
-![Осуществление поиска](screenshots/2.jpg)
-![Отображение результатов поиска](screenshots/3.jpg)
-![Карточка с информацией о книге](screenshots/4.jpg)
-![Продолжение карточки с информацией + кнопка перехода на сайт](screenshots/5.jpg)
-![Обработка ошибок](screenshots/6.jpg)
+<p align="center">
+  <img src="screenshots/1.jpg" width="200" alt="Главный экран"/>
+  <img src="screenshots/2.jpg" width="200" alt="Осуществление поиска"/>
+  <img src="screenshots/3.jpg" width="200" alt="Отображение результатов поиска"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/4.jpg" width="200" alt="Карточка с информацией о книге"/>
+  <img src="screenshots/5.jpg" width="200" alt="Продолжение карточки с информацией + кнопка перехода на сайт"/>
+  <img src="screenshots/6.jpg" width="200" alt="Обработка ошибок"/>
+</p>
 
 ## Запуск
 1. Откройте проект в Android Studio
