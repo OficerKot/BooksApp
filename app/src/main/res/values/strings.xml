@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BooksApp</string>
+    <string name="loading">Loading</string>
+    <string name="error">Connection error</string>
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+    <string name="description">Description</string>
+    <string name="authors">Authors</string>
+    <string name="published_date">Published date</string>
+    <string name="open">Open in browser</string>
+    <string name="enter_query">Let\'s start searching for books!</string>
+    <string name="search">Search for books...</string>
+</resources>
